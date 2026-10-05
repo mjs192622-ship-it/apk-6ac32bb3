@@ -1,0 +1,48 @@
+{
+    "project_info": {
+        "project_number": "878834334364",
+        "project_id": "vridhi-markets",
+        "storage_bucket": "vridhi-markets.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:878834334364:android:fece7aac643cb9ba5bcb59",
+                "android_client_info": {
+                    "package_name": "com.vridhimarkets.app"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyD4-2UEmQ3s5NjAg3XBTo3crHk0FIr5jPY"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:878834334364:android:358e3fc60b4c200f5bcb59",
+                "android_client_info": {
+                    "package_name": "com.vridhimarkets.app"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyD4-2UEmQ3s5NjAg3XBTo3crHk0FIr5jPY"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
